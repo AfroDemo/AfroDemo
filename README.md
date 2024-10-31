@@ -50,6 +50,8 @@ A healthcare platform to connect patients with medical professionals and provide
 - Currently learning **Go** and **Tailwind CSS** to expand my tech stack.
 - Experienced with **Node.js** for backend development and building APIs.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
