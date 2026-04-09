@@ -1,64 +1,92 @@
-# Hi there 👋, I'm Hasani Mkindi
+<!-- HEADER -->
+<h1 align="center">👋 Hi, I'm Hasani Mkindi</h1>
+<h3 align="center">🚀 Software Developer | Systems Architect | Founder @ AfroDemoz</h3>
 
-I'm a passionate software developer from Tanzania with a strong background in web and mobile development. I started my journey in 2015, primarily focusing on building robust website systems using PHP and JavaScript. Over the years, I've expanded my skill set to include various modern frameworks, mobile development, and technologies.
-
-## 🚀 About Me
-
-- 🔭 I’m currently working on **AfroDemoz**, a platform I've founded to showcase and develop innovative tech solutions.
-- 🌱 I’m currently learning **Go** and **Tailwind CSS**.
-- 👯 I’m looking to collaborate on open-source projects related to web development, mobile development, and tech education.
-- 💬 Ask me about **PHP, JavaScript, Laravel, React.js, Node.js, Inertia.js, Tailwind CSS, Go, React Native, and Kotlin Composable**.
-- 📫 How to reach me: **[hasanimkindi@gmail.com](mailto:hasanimkindi@gmail.com)**.
-- ⚡ Fun fact: I enjoy working on DIY electronics projects and have a diploma in **Electronics and Telecommunication**.
-
-## 🛠 Tech Stack
-
-- **Languages:** PHP, JavaScript, Kotlin, Go, HTML, CSS, SQL
-- **Frameworks/Libraries:** Laravel, React.js, React Native, Inertia.js, Tailwind CSS, Redux
-- **Backend:** Node.js, Go
-- **Tools:** Git, Docker, Adobe Illustrator, Prism.js
-- **Database:** MySQL, PostgreSQL
-- **Platforms:** Ubuntu, Windows, Android
-- **Mobile Development:** React Native, Kotlin Composable
-
-## 💻 My Projects
-
-### [KitaaTech](https://kitaatech.afrodemoz.com)
-A learning platform designed to help young people in Tanzania dive into tech, with tutorials and resources provided in Swahili.
-
-### [AfroDemoz](https://afrodemoz.com)
-A hub for innovative tech solutions, showcasing my work and collaborations with other tech enthusiasts.
-
-### [ADz Community](https://adzcommunity.afrodemoz.com)
-A vibrant online community for sharing ideas, projects, and tech trends.
-
-### [Passion Medics](https://passionmedics.afrodemoz.com)
-A healthcare platform to connect patients with medical professionals and provide valuable health-related resources.
-
-## 📈 GitHub Stats
-
-![Hasani Mkindi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AfroDemo&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AfroDemo&layout=compact&theme=radical)
-
-## 🗂️ Highlights
-
-- Successfully launched **AfroDemoz** and **KitaaTech** platforms.
-- Proficient in using **Mailcow** for email server setup.
-- Implemented a **visit count system** and **ADzCoin** in the **exaPoint** project.
-- Experience with **React Native** for mobile apps and **Kotlin Composable** for Android development.
-- Currently learning **Go** and **Tailwind CSS** to expand my tech stack.
-- Experienced with **Node.js** for backend development and building APIs.
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Introduction to Tailwind CSS](https://blog.afrodemoz.com/tailwindcss)
-- [Using Redux for State Management in React](https://blog.afrodemoz.com/redux-react)
-<!-- BLOG-POST-LIST:END -->
-
-Feel free to check out my repositories and connect with me!
+<p align="center">
+  <i>Building scalable systems for Africa, not just apps.</i>
+</p>
 
 ---
 
-© 2024 Hasani Mkindi
+## 🧠 About Me
+
+- 💻 Full-stack developer focused on **real-world systems**
+- 🏗️ Founder of **AfroDemoz Tech**
+- 🔄 Specialized in **offline-first architectures & API systems**
+- 📱 Building cross-platform apps with **Flutter & React Native**
+- 🌍 Passionate about solving **local African challenges through tech**
+
+---
+
+## ⚙️ Tech Stack
+
+### 🖥 Backend
+- PHP (Laravel)
+
+### 📱 Mobile
+- Flutter  
+- React Native  
+
+### 🧩 Programming
+- Python  
+- Java  
+
+### 🗄 Database
+- MySQL  
+- PostgreSQL  
+
+### ☁️ Systems & DevOps
+- VPS (Linux)  
+- API Design  
+- Offline-First Sync Systems  
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|--------|------------|
+| **AfroDemoz** | Platform for building and showcasing impactful tech solutions |
+| **KitaaTech** | Swahili-based tech learning platform |
+| **ADz POS** | Offline-first POS system |
+| **BuildField** | Civil site & workflow management system |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=afrodemo&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?afrodemo=AfroDemo&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🔥 Current Focus
+
+- ⚡ Scalable SaaS systems  
+- 📱 Offline-first mobile applications  
+- 🤖 AI-assisted development tools  
+- 🌍 Local-first digital solutions  
+
+---
+
+## 🧭 Philosophy
+
+<p align="center">
+  <b>"Build systems, not just apps."</b>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  📧 <a href="mailto:hasanimkindi@gmail.com">hasanimkindi@gmail.com</a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ If you like what I build, consider starring my projects!
+</p>
