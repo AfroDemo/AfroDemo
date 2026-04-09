@@ -53,15 +53,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afrodemo&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?afrodemo=AfroDemo&layout=compact&theme=github_dark&hide_border=true" width="48%" />
-</p>
-
----
-
 ## 🔥 Current Focus
 
 - ⚡ Scalable SaaS systems  
