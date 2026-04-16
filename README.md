@@ -20,8 +20,13 @@
 
 ## ⚙️ Tech Stack
 
+### 🖥 Web
+- Blade (Laravel)
+- ReactJS (Laravel + Inertia)
+
 ### 🖥 Backend
 - PHP (Laravel)
+- NodeJS
 
 ### 📱 Mobile
 - Flutter  
